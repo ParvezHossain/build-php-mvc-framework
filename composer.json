@@ -1,0 +1,16 @@
+{
+    "name": "parvez/build-php-mvc-framework",
+    "license": "MIT License",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "ParvezHossain",
+            "email": "parvezhossain724@gmail.com"
+        }
+    ],
+    "require": {}
+}
